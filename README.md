@@ -1,7 +1,7 @@
-# SLMUSIC Bot
+# sl song downloder bot
 ## A telegram bot that can download any songs
 <p align="center">
-  <img src="https://telegra.ph/file/955b5fca24b7e0c58c833.jpg">
+  <img src="https://telegra.ph/file/9f037de06edbe1e019986.jpg">
 </p>
 
 
